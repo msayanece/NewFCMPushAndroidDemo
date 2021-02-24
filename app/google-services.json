@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197953836930",
+    "project_id": "fir-adminsdkserverdemo",
+    "storage_bucket": "fir-adminsdkserverdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197953836930:android:ea3fa15360cbf83b94e19b",
+        "android_client_info": {
+          "package_name": "com.sayan.fcmpushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197953836930-274s918q0t9l76gav6lffh37sch5obs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayan.fcmpushdemo",
+            "certificate_hash": "708d0e0c85e000c823f5d51013b89e1b45711255"
+          }
+        },
+        {
+          "client_id": "197953836930-01mqt2gpelk8kicek3nrn16h83o5gfes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvO0xb3NerjYQAzztaRnPapXbT6gop9ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197953836930-01mqt2gpelk8kicek3nrn16h83o5gfes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
